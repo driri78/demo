@@ -1,7 +1,7 @@
 pipeline {
     agent any
 
-    enviroment{
+    environment {
 		APP_NAME = 'demo-app'
 	}
 	
